@@ -1,0 +1,57 @@
+
+    <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header-navbar-right">
+        <a class="navbar-brand" href="#">
+          <img alt="Brand" src="home.png" height="30" ></img>
+
+        </a>
+
+
+            <ul class="nav navbar-nav navbar-right">
+         <li><a href="contact.html"><span class="glyphicon glyphicon-user"></span> CONTACT US</a></li>
+
+       </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+
+<h1 id="head"><center>SHANTI </br> PROPERTIES</center></h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="">
+<div class="paragraph">
+  <p id="para">Shanti properties is professionally managed  real estate service and building company based in Old Delhi </br> we provide a wide range of services which includes <ul>
+  </br><li id="one">commercial real estate </br><img src="iluu.png" id="commercial"></img></li>
+
+
+
+
+    <li id="two">sales and renting </br> </li></br><img src="rent.jpg" id="rent"></img></br></br></br></br></br>
+  </br> <li id="three">Construction of property</li></br><img src="construction.png" id="Construction"></img>
+  </ul>
+ <h1 id="headtwo">We have a 30 year + experience. </h1></br>
+ <img src="exp.png" id="exp"></img>
+ <ul>
+   <p id="paratwo">We primarily deal properties in</p>
+    <li id="four">Sadar Bazar</li>
+    <li id="five">Ajad Market</li>
+    <li id="six">Taliwara</li>
+  </ul>
+  <br> <p id="parathree"> We consider each of our  customer as our family member who deserves nothing but best service with honesty.</p>
+  <ul>
+    <li><img src=""></li>
+  </ul>
+</div>
+</div>
+
+
+
+</div>
